@@ -1,1 +1,1 @@
-# LSTM_GRU_ST_Stock_Predict
+# LSTM_GCN_ST_Stock_Predict
